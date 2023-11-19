@@ -157,3 +157,47 @@ Neste exemplo:
     Utilizo manipuladores de fluxo (std::fixed e std::setprecision) para formatar a saída de um número de ponto flutuante.
     Utilizo std::cin.ignore para limpar o buffer de entrada antes de ler uma linha de texto.
     Leio uma linha de texto usando std::getline e imprimo a entrada no console.
+
+
+
+# Crappy Awesome PhoneBook Software ./ex01
+
+Welcome to the Crappy Awesome PhoneBook software! 📞📇
+
+## Description
+
+This project presents a unique blend of nostalgia and functionality, aiming to recreate the quirky charm of phonebook software from the 1980s. Embracing the spirit of the era's unbelievable technology, this program simulates a phonebook system with both its "crappy" and "awesome" attributes.
+
+## Features
+
+- **Crappy Elements**:
+  - Emulates the simplicity and limitations reminiscent of older technology.
+  - May contain quirks, imperfections, or design choices that reflect the "crappy" aspect.
+
+- **Awesome Characteristics**:
+  - Attempts to capture the essence of older technology's charm and retro appeal.
+  - Provides basic functionalities akin to a traditional phonebook.
+
+## Instructions
+
+To use this "Crappy Awesome PhoneBook" software, follow these steps:
+1. Clone the repository to your local machine.
+2. Navigate to the 'ex01/' directory.
+3. Compile the provided files using the provided 'Makefile'.
+4. Run the executable to explore the "crappy awesome" functionalities.
+
+## Turn-in Directory
+
+- **Turn-in Directory**: ex01/
+- **Files to Turn In**: Makefile, *.cpp, *.{h, hpp}
+- **Forbidden Functions**: None
+
+## Additional Notes
+
+Welcome to a time-travel experience back to the 80s! Please note that while this software aims to capture the nostalgic essence of past technology, it might exhibit certain limitations or unexpected behaviors that add to its "crappy awesome" charm.
+
+Feel free to contribute or enhance this project to further explore the fusion of "crappy" and "awesome" elements in the realm of software development! Contributions are always welcome. 🚀🕹️
+
+---
+
+Thank you for exploring the Crappy Awesome PhoneBook software! Enjoy the retro vibes and the blend of "crappy" with "awesome." If you have any questions or suggestions, feel free to reach out!
