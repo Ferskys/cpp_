@@ -5,9 +5,9 @@ This file explains essential concepts for performing input and output operations
 * <iostream> Header: This header file provides functionalities for input/output (I/O) operations.
     Standard Streams:
   ```
-        std::cout: An object of the ostream class used for sending formatted output to the console (typically).
-        std::cin: An object of the istream class used for reading formatted input from the console (typically).
-        std::cerr and std::clog: Objects of the ostream class used for printing error messages. std::cerr is unbuffered, while std::clog might be buffered.
+    std::cout: An object of the ostream class used for sending formatted output to the console (typically).
+    std::cin: An object of the istream class used for reading formatted input from the console (typically).
+    std::cerr and std::clog: Objects of the ostream class used for printing error messages. std::cerr is unbuffered, while std::clog might be buffered.
   ```
 * Stream Insertion Operator (<<): Used to send data to output streams.
     Manipulators: Functions that modify the behavior of streams for formatting output (e.g., std::endl, std::setw, std::fixed, std::setprecision).
